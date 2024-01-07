@@ -1,7 +1,7 @@
 - impor database
 - buat env
 - composer install
-- generate key
 - npm install
 - npm run build
 - php artisan serve
+- generate key
